@@ -1,8 +1,8 @@
-highlighter: pygments
+highlighter: rouge
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
-permalink: /:title.html
+permalink: www.nicholasreith.com/vitae.html
 paginate: 5
 gems: [jekyll-paginate]
 port: 4000
@@ -24,11 +24,11 @@ github: trending
 twitter: twitter
 tel: +1 (646) 821 1880
 tel_full: tel:+1 (646) 821 1880
-#google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-#address: 44 Perth Street
-#postcode: EH3 5BL
-#city: Edinburgh
-#country: United Kingdom
+google_maps: 'https://www.google.com/maps/place/Hyde+Park,+Austin,+TX/@30.3067907,-97.7332168,15z/data=!3m1!4b1!4m2!3m1!1s0x8644ca710dd9e5b5:0x526d78512aa5b73c'
+#address: Austin, Texas
+postcode: 78705
+city: Austin, Texas
+country: United States
 #google_analytics: UA-69300817-1
 
 # needed for travis-ci build
