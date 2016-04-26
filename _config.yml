@@ -2,12 +2,12 @@ highlighter: rouge
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
-permalink: www.nicholasreith.com/vitae.html
+permalink: http://nreith.github.com/vitae
 paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://nreith.github.io/vitae
+url: http://nreith.github.com/vitae
 author: Nicholas Reith
 
 # edit this section with your information
