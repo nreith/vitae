@@ -2,7 +2,7 @@ highlighter: rouge
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
-permalink: http://nreith.github.com/vitae
+permalink: http://www.nicholasreith.com/vitae
 paginate: 5
 gems: [jekyll-paginate]
 port: 4000
