@@ -1,7 +1,4 @@
 highlighter: rouge
-markdown: rdiscount
-rdiscount:
-  extensions: [smart]
 permalink: http://www.nicholasreith.com/vitae
 paginate: 5
 gems: [jekyll-paginate]
