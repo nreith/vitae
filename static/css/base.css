@@ -19,7 +19,9 @@
 	#Images
 	#Buttons
 	#Forms
-	#Misc */
+	#Misc 
+	#Navbar
+	*/
 
 
 /* #Reset & Basics (Inspired by E. Meyers)
@@ -266,7 +268,7 @@
 	.half-bottom { margin-bottom: 10px !important; }
 	.add-bottom { margin-bottom: 20px !important; }
 
-/* Navbar
+/* #Navbar
 -------------------------------------------------- */
 
 .navbar-static-top {
