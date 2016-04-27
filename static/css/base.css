@@ -92,6 +92,11 @@
 
 	hr { border: solid #ddd; border-width: 1px 0 0; clear: both; margin: 10px 0 30px; height: 0; }
 
+/* Nicholas added these for bullets*/
+	.fa-cog { line-height: inherit;}
+	.fa-star { line-height: inherit;}
+	.fa-star-half-o { line-height: inherit;}
+	.fa-star-o { line-height: inherit;}
 
 /* #Links
 ================================================== */
