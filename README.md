@@ -3,7 +3,7 @@
 
 Personal curriculum vitae / resume of Data Scientist and Sociologist, **Nicholas Reith**.
 
-See my main site here [nicholasreith.com](https://www.nicholasreith.com).
+See my main site at [nicholasreith.com](https://www.nicholasreith.com).
 
 This resume is built with [skeleton](http://getskeleton.com/), powered by [Jekyll](http://jekyllrb.com/) and freely
 hosted in [Github pages](https://pages.github.com/), and forked from this [theme](https://biomadeira.github.io/vitae)
