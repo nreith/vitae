@@ -1,7 +1,7 @@
 
 # Vitae
 
-Personal curriculum vitae / resume of Data Scientist and Sociologist, ##Nicholas Reith##.
+Personal curriculum vitae / resume of Data Scientist and Sociologist, **Nicholas Reith**.
 
 See my main site here [nicholasreith.com](https://www.nicholasreith.com).
 
